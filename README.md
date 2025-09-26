@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/nick_tshepo" target="blank"><img src="https://img.shields.io/twitter/follow/nick_tshepo?logo=twitter&style=for-the-badge" alt="nick_tshepo" /></a> </p>
 
-- 🌱 I’m currently learning **React Advanced Concepts,Cybersecurity** (TryHackMe, Network Security, Cryptography, Forensic), Cloud Computing (Azure)**
-
-- 👨‍💻 All of my projects are available at [https://nick-tshepo.github.io/Nick_Mogotlane_VirtualCV/](https://nick-tshepo.github.io/Nick_Mogotlane_VirtualCV/)
-
-- 💬 Ask me about **MERN Stack (MongoDB, Express, React, Node.js), ASP.NET Framework + Bootstrap, Python Projects, Database Design (MySQL, Oracle, MongoDB, Neo4j) & Cybersecurity**
-
 - 📫 How to reach me **nicktshepo26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
