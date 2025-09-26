@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">BSc Hon in CS & IT Candidate with passionation for technology and problem-solving, I enjoy building innovative solutions that make an impact in areas like Software Development, Data Analytics, Cybersecurity, and Business Intelligence.</h3>
+<h3 align="center">BSc Hons in CS & IT Candidate with passionation for technology and problem-solving, I enjoy building innovative solutions that make an impact in areas like Software Development, Data Analytics, Cybersecurity, and Business Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-tshepo&label=Profile%20views&color=0e75b6&style=flat" alt="nick-tshepo" /> </p>
 
